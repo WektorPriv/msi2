@@ -1,4 +1,5 @@
 //
+// Algorytm budowy drzewa decyzjyjnego MSI
 // Created by Wiktor Bystrek on 16.04.2023.
 //
 #include "header.h"

@@ -1,4 +1,5 @@
 //
+// Algorytm budowy drzewa decyzjyjnego MSI
 // Created by Wiktor Bystrek on 16.04.2023.
 //
 #include <iostream>
@@ -28,8 +29,6 @@ typedef vector<int> vi;
 typedef map<string, int> msi;
 typedef vector<double> vd;
 
-
-
 struct node
 {
     string splitOn;
@@ -47,7 +46,6 @@ struct figure
     string parallelCnt;
     string rAngleCnt;
 };
-
 
 vvs pruneTable(vvs&, string&, const string&);
 int returnIndexOfVector(vs&, string);
