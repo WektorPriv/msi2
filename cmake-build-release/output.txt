@@ -37,3 +37,276 @@ Atrybut: cornerCnt
  Wartosc: 0	Klasa = test	Klasa = prostokat			Klasa = kwadrat		Klasa = romb	Klasa = romb	Klasa = trojkat
 Przewidziana klasa = test
 ======================================================================
+
+Plik = test02.jpg
+cornerCnt	hwRatio	parallelCnt	rAngleCnt	label	
+0	0	0	0	elipsa	
+0	0	0	0	elipsa	
+0	0	0	3	elipsa	
+0	0	0	2	elipsa	
+0	1	0	0	kolko	
+0	1	0	0	kolko	
+0	1	0	0	kolko	
+0	1	0	0	kolko	
+4	1	2	0	kwadrat	
+4	1	2	0	kwadrat	
+4	1	2	0	kwadrat	
+4	1	6	0	kwadrat	
+4	0	2	0	prostokat	
+4	0	2	0	prostokat	
+4	0	2	0	prostokat	
+4	1	2	2	romb	
+2	0	1	2	romb	
+4	0	2	2	romb	
+4	0	2	2	romb	
+4	0	2	2	romb	
+2	0	1	2	romb	
+2	0	1	2	romb	
+4	0	0	0	test	
+3	1	0	3	trojkat	
+3	1	0	3	trojkat	
+3	1	0	3	trojkat	
+3	1	0	3	trojkat	
+
+Atrybut: cornerCnt
+ Wartosc: 	Atrybut: hwRatio
+ Wartosc: 0	Klasa = elipsa	Klasa = kolko	Atrybut: rAngleCnt
+ Wartosc: 4	Atrybut: hwRatio
+ Wartosc: 0	Atrybut: parallelCnt
+ Wartosc: 0	Klasa = test	Klasa = prostokat			Klasa = kwadrat		Klasa = romb	Klasa = romb	Klasa = trojkat
+Przewidziana klasa = elipsa
+======================================================================
+
+Plik = test03.jpg
+cornerCnt	hwRatio	parallelCnt	rAngleCnt	label	
+0	0	0	0	elipsa	
+0	0	0	0	elipsa	
+0	0	0	3	elipsa	
+0	0	0	2	elipsa	
+0	1	0	0	kolko	
+0	1	0	0	kolko	
+0	1	0	0	kolko	
+0	1	0	0	kolko	
+4	1	2	0	kwadrat	
+4	1	2	0	kwadrat	
+4	1	2	0	kwadrat	
+4	1	6	0	kwadrat	
+4	0	2	0	prostokat	
+4	0	2	0	prostokat	
+4	0	2	0	prostokat	
+4	1	2	2	romb	
+2	0	1	2	romb	
+4	0	2	2	romb	
+4	0	2	2	romb	
+4	0	2	2	romb	
+2	0	1	2	romb	
+2	0	1	2	romb	
+4	0	0	0	test	
+3	1	0	3	trojkat	
+3	1	0	3	trojkat	
+3	1	0	3	trojkat	
+3	1	0	3	trojkat	
+
+Atrybut: cornerCnt
+ Wartosc: 	Atrybut: hwRatio
+ Wartosc: 0	Klasa = elipsa	Klasa = kolko	Atrybut: rAngleCnt
+ Wartosc: 4	Atrybut: hwRatio
+ Wartosc: 0	Atrybut: parallelCnt
+ Wartosc: 0	Klasa = test	Klasa = prostokat			Klasa = kwadrat		Klasa = romb	Klasa = romb	Klasa = trojkat
+Przewidziana klasa = prostokat
+======================================================================
+
+Plik = test04.jpg
+cornerCnt	hwRatio	parallelCnt	rAngleCnt	label	
+0	0	0	0	elipsa	
+0	0	0	0	elipsa	
+0	0	0	3	elipsa	
+0	0	0	2	elipsa	
+0	1	0	0	kolko	
+0	1	0	0	kolko	
+0	1	0	0	kolko	
+0	1	0	0	kolko	
+4	1	2	0	kwadrat	
+4	1	2	0	kwadrat	
+4	1	2	0	kwadrat	
+4	1	6	0	kwadrat	
+4	0	2	0	prostokat	
+4	0	2	0	prostokat	
+4	0	2	0	prostokat	
+4	1	2	2	romb	
+2	0	1	2	romb	
+4	0	2	2	romb	
+4	0	2	2	romb	
+4	0	2	2	romb	
+2	0	1	2	romb	
+2	0	1	2	romb	
+4	0	0	0	test	
+3	1	0	3	trojkat	
+3	1	0	3	trojkat	
+3	1	0	3	trojkat	
+3	1	0	3	trojkat	
+
+Atrybut: cornerCnt
+ Wartosc: 	Atrybut: hwRatio
+ Wartosc: 0	Klasa = elipsa	Klasa = kolko	Atrybut: rAngleCnt
+ Wartosc: 4	Atrybut: hwRatio
+ Wartosc: 0	Atrybut: parallelCnt
+ Wartosc: 0	Klasa = test	Klasa = prostokat			Klasa = kwadrat		Klasa = romb	Klasa = romb	Klasa = trojkat
+Przewidziana klasa = kwadrat
+======================================================================
+
+Plik = test05.jpg
+cornerCnt	hwRatio	parallelCnt	rAngleCnt	label	
+0	0	0	0	elipsa	
+0	0	0	0	elipsa	
+0	0	0	3	elipsa	
+0	0	0	2	elipsa	
+0	1	0	0	kolko	
+0	1	0	0	kolko	
+0	1	0	0	kolko	
+0	1	0	0	kolko	
+4	1	2	0	kwadrat	
+4	1	2	0	kwadrat	
+4	1	2	0	kwadrat	
+4	1	6	0	kwadrat	
+4	0	2	0	prostokat	
+4	0	2	0	prostokat	
+4	0	2	0	prostokat	
+4	1	2	2	romb	
+2	0	1	2	romb	
+4	0	2	2	romb	
+4	0	2	2	romb	
+4	0	2	2	romb	
+2	0	1	2	romb	
+2	0	1	2	romb	
+4	0	0	0	test	
+3	1	0	3	trojkat	
+3	1	0	3	trojkat	
+3	1	0	3	trojkat	
+3	1	0	3	trojkat	
+
+Atrybut: cornerCnt
+ Wartosc: 	Atrybut: hwRatio
+ Wartosc: 0	Klasa = elipsa	Klasa = kolko	Atrybut: rAngleCnt
+ Wartosc: 4	Atrybut: hwRatio
+ Wartosc: 0	Atrybut: parallelCnt
+ Wartosc: 0	Klasa = test	Klasa = prostokat			Klasa = kwadrat		Klasa = romb	Klasa = romb	Klasa = trojkat
+Przewidziana klasa = kwadrat
+======================================================================
+
+Plik = test06.jpg
+cornerCnt	hwRatio	parallelCnt	rAngleCnt	label	
+0	0	0	0	elipsa	
+0	0	0	0	elipsa	
+0	0	0	3	elipsa	
+0	0	0	2	elipsa	
+0	1	0	0	kolko	
+0	1	0	0	kolko	
+0	1	0	0	kolko	
+0	1	0	0	kolko	
+4	1	2	0	kwadrat	
+4	1	2	0	kwadrat	
+4	1	2	0	kwadrat	
+4	1	6	0	kwadrat	
+4	0	2	0	prostokat	
+4	0	2	0	prostokat	
+4	0	2	0	prostokat	
+4	1	2	2	romb	
+2	0	1	2	romb	
+4	0	2	2	romb	
+4	0	2	2	romb	
+4	0	2	2	romb	
+2	0	1	2	romb	
+2	0	1	2	romb	
+4	0	0	0	test	
+3	1	0	3	trojkat	
+3	1	0	3	trojkat	
+3	1	0	3	trojkat	
+3	1	0	3	trojkat	
+
+Atrybut: cornerCnt
+ Wartosc: 	Atrybut: hwRatio
+ Wartosc: 0	Klasa = elipsa	Klasa = kolko	Atrybut: rAngleCnt
+ Wartosc: 4	Atrybut: hwRatio
+ Wartosc: 0	Atrybut: parallelCnt
+ Wartosc: 0	Klasa = test	Klasa = prostokat			Klasa = kwadrat		Klasa = romb	Klasa = romb	Klasa = trojkat
+Przewidziana klasa = trojkat
+======================================================================
+
+Plik = test07.jpg
+cornerCnt	hwRatio	parallelCnt	rAngleCnt	label	
+0	0	0	0	elipsa	
+0	0	0	0	elipsa	
+0	0	0	3	elipsa	
+0	0	0	2	elipsa	
+0	1	0	0	kolko	
+0	1	0	0	kolko	
+0	1	0	0	kolko	
+0	1	0	0	kolko	
+4	1	2	0	kwadrat	
+4	1	2	0	kwadrat	
+4	1	2	0	kwadrat	
+4	1	6	0	kwadrat	
+4	0	2	0	prostokat	
+4	0	2	0	prostokat	
+4	0	2	0	prostokat	
+4	1	2	2	romb	
+2	0	1	2	romb	
+4	0	2	2	romb	
+4	0	2	2	romb	
+4	0	2	2	romb	
+2	0	1	2	romb	
+2	0	1	2	romb	
+4	0	0	0	test	
+3	1	0	3	trojkat	
+3	1	0	3	trojkat	
+3	1	0	3	trojkat	
+3	1	0	3	trojkat	
+
+Atrybut: cornerCnt
+ Wartosc: 	Atrybut: hwRatio
+ Wartosc: 0	Klasa = elipsa	Klasa = kolko	Atrybut: rAngleCnt
+ Wartosc: 4	Atrybut: hwRatio
+ Wartosc: 0	Atrybut: parallelCnt
+ Wartosc: 0	Klasa = test	Klasa = prostokat			Klasa = kwadrat		Klasa = romb	Klasa = romb	Klasa = trojkat
+Przewidziana klasa = trojkat
+======================================================================
+
+Plik = test08.jpg
+cornerCnt	hwRatio	parallelCnt	rAngleCnt	label	
+0	0	0	0	elipsa	
+0	0	0	0	elipsa	
+0	0	0	3	elipsa	
+0	0	0	2	elipsa	
+0	1	0	0	kolko	
+0	1	0	0	kolko	
+0	1	0	0	kolko	
+0	1	0	0	kolko	
+4	1	2	0	kwadrat	
+4	1	2	0	kwadrat	
+4	1	2	0	kwadrat	
+4	1	6	0	kwadrat	
+4	0	2	0	prostokat	
+4	0	2	0	prostokat	
+4	0	2	0	prostokat	
+4	1	2	2	romb	
+2	0	1	2	romb	
+4	0	2	2	romb	
+4	0	2	2	romb	
+4	0	2	2	romb	
+2	0	1	2	romb	
+2	0	1	2	romb	
+4	0	0	0	test	
+3	1	0	3	trojkat	
+3	1	0	3	trojkat	
+3	1	0	3	trojkat	
+3	1	0	3	trojkat	
+
+Atrybut: cornerCnt
+ Wartosc: 	Atrybut: hwRatio
+ Wartosc: 0	Klasa = elipsa	Klasa = kolko	Atrybut: rAngleCnt
+ Wartosc: 4	Atrybut: hwRatio
+ Wartosc: 0	Atrybut: parallelCnt
+ Wartosc: 0	Klasa = test	Klasa = prostokat			Klasa = kwadrat		Klasa = romb	Klasa = romb	Klasa = trojkat
+Przewidziana klasa = kolko
+======================================================================
