@@ -1,3 +1,0 @@
-C:/Users/Wiktor/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/msi.dir
-C:/Users/Wiktor/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Wiktor/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
